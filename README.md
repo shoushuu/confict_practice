@@ -1,3 +1,2 @@
-好きなプログラミング言語
-
-ruby
+defakt content.
+NEW content
